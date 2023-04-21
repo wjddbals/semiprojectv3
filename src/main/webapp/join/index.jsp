@@ -45,11 +45,12 @@
             <div class="col-6 offset-3">
                 <img src="img/Marshal.png" class="img-fluid">
 
-
-
             </div>
         </div>
-        <div class="row"></div>
+        <div class="row">
+            <div class="col-8 offset-2 text-center p-3"><p> Phasellus sit amet euismod magna. Curabitur leo enim, laoreet nec mi sit amet, viverra sollicitudin tortor. Integer a felis in mauris sagittis vulputate ac vitae quam. Ut ligula ex, consequat at feugiat pellentesque, semper eget nunc. Donec bibendum laoreet condimentum. Duis nibh sapien, blandit molestie vestibulum quis, eleifend eu nisi. Mauris auctor iaculis est nec fermentum. Nam vel velit nec erat vestibulum elementum. Quisque lobortis maximus mauris, eget condimentum urna egestas sit amet. Quisque varius placerat tempus. Fusce venenatis mattis metus. Suspendisse justo tellus, lacinia ut dapibus ac, congue a mi.</p></div>
+                <div><button class="btn btn-success">지금바로 시작하기</button> </div>
+        </div>
         <div class="row"></div>
     </div>
     <footer>
