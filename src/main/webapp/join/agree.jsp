@@ -25,7 +25,7 @@
             <li class="nav-item">
                 <a href="/intro.jsp" class="nav-link">프로젝트소개</a></li>
             <li class="nav-item">
-                <a href="/join/agree.jsp" class="nav-link">회원가입</a></li>
+                <a href="/join/agree.jsp" class="nav-link active disabled" >회원가입</a></li>
             <li class="nav-item">
                 <a href="/board/list.jsp" class="nav-link">게시판</a></li>
             <li class="nav-item">
@@ -427,6 +427,7 @@ Copyright © Kakao Corp. All rights reserved.
                             개인정보수집 및 이용에 동의 합니다</label>
                     </div>
                 </form>
+            </div>
 
                 <div class="text-center mt-5">
                     <button type="button "class="btn btn-success " id="agreeok ">동의합니다</button>
