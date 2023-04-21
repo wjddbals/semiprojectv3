@@ -36,7 +36,22 @@
         </ul>
     </nav>
 
-    <div id="main"></div>
+    <div id="main">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="display-5 text-center p-3">초기밀 PROJECT 보완계획
+                                                        </h1>
+            </div>
+            <div class="col-6 offset-3">
+                <img src="img/Marshal.png" class="img-fluid">
+
+
+
+            </div>
+        </div>
+        <div class="row"></div>
+        <div class="row"></div>
+    </div>
     <footer>
         <h6 class="col text-end bg-dark bg-opacity-10 p-3">
             Copyright &copy;Lorem Ipsum 2023.jiho.All Rights Reserved. <br/>Created by Bootstap5.</h6>
